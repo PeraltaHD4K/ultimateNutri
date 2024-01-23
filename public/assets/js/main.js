@@ -85,4 +85,4 @@
 
 })(jQuery);
 
-//New comm		ent
+//New comment
